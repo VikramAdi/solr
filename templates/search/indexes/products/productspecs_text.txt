@@ -1,0 +1,6 @@
+{{object.name}}
+{{object.category}}
+{{object.synonym_1}}
+{{object.synonym_2}}
+{{object.synonym_3}}
+{{object.frnd_name}}
